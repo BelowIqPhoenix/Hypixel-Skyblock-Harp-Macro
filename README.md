@@ -10,7 +10,7 @@
 
 <p>An awesome utility to help complete Melody's Quest on Skyblock!</p>
 
-<a href="">Video Showcase</strong></a>
+<a href="https://youtu.be/BoijWpU1neA">Video Showcase</strong></a>
 .
 <a href="https://discord.gg/sZ3KU6uaqq">My Discord Server</a>
 </div>
@@ -29,7 +29,7 @@
 #### Installing the HarpMacro mod
 
 1. Download the latest mod [release](https://github.com/BelowIqPhoenix/Hypixel-Skyblock-Harp-Macro/releases/tag/1.0). If it says `this file may harm your computer`, click `allow anyways` as all java files will be flagged by Chrome.
-2. Add the HarpMacrp mod:
+2. Add the HarpMacro mod:
    - Press the windows key + R.
    - Type `%appdata%` and press enter.
    - Navigate to the folder called `.minecraft`.
