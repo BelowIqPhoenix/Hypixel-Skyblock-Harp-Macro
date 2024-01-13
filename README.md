@@ -12,7 +12,7 @@
 
 <a href="">Video Showcase</strong></a>
 .
-<a href="">My Discord Server</a>
+<a href="https://discord.gg/sZ3KU6uaqq">My Discord Server</a>
 </div>
 
 ## Installation
@@ -40,4 +40,4 @@
 
 ## Support
 
-If you need assistance installing or using the mod, feel free to join the [discord]() and ask for help in [#support](discord://discord.com/channels/516977525906341928/714332750156)
+If you need assistance installing or using the mod, feel free to join the [discord](https://discord.gg/sZ3KU6uaqq) and ask for help in [#support](https://discord.com/channels/1195816539996295248/1195816588197253241)
